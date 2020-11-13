@@ -1,0 +1,6 @@
+'Random_Triangle_10k.dat'  initial state
+'../junk2' project_name
+0.0005 dt
+10 N_intermeasure
+200 N_measures
+T restart_simulation
